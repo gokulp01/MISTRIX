@@ -1,4 +1,4 @@
-# MISTRIX Family of Models: Enabling HAIDEF to Interact with the Physical World
+# MISTRIX Family of Models: Enabling MISTRAL to Interact with the Physical World
 
 ![MISTRIX](assets/mistrix.png)
 
